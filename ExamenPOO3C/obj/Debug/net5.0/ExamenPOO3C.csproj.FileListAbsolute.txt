@@ -1,0 +1,16 @@
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ExamenPOO3C.exe
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ExamenPOO3C.deps.json
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ExamenPOO3C.runtimeconfig.json
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ExamenPOO3C.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ExamenPOO3C.dll
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ref\ExamenPOO3C.dll
+C:\Users\CompuStore\source\repos\ExamenPOO3C\bin\Debug\net5.0\ExamenPOO3C.pdb
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.dll
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ref\ExamenPOO3C.dll
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.pdb
+C:\Users\CompuStore\source\repos\ExamenPOO3C\obj\Debug\net5.0\ExamenPOO3C.genruntimeconfig.cache
